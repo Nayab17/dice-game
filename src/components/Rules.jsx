@@ -7,7 +7,7 @@ const Rules = () => {
       <h2>How to play dice gam</h2>
       <div className="text">
         <p>Select any number</p>
-        <p>Click on dice image</p>
+        <p>Click on dice image first</p>
         <p>
           after click on dice if selected number is equal to dice number you
           will get same point as dice
